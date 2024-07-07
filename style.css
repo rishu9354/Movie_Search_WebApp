@@ -42,6 +42,7 @@
     bottom: -100%;
     font-weight: bold;
     padding: 20px;
+    overflow:auto;
     border-radius: 10px 10px 0px 0px ;
     left: 0;
     color: black;
@@ -111,6 +112,7 @@
         border-radius: 10px 10px 0px 0px ;
         left: 0;
         color: black;
+        overflow:auto;
         transition: 0.5s;
         background-color: beige;
     }
