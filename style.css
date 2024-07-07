@@ -116,8 +116,8 @@
     }
 
     .box img{
-        width: 300px;
-        height: 400px;
+        width: 250px;
+        height: 350px;
         box-shadow: 0 4px 5px rgba(95, 6, 41, 0.2);;
     }
     .box{
@@ -148,7 +148,7 @@
     }
 
     #search{
-        width: 300px;
+        width: 250px;
         padding: 5px 30px;
         outline: none;
         border: none;
